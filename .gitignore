@@ -1,0 +1,11 @@
+UE4SS_Xinput_v2.5.2
+vuxRemoveFlyingStamina
+5562B4A706CC44A29A3D7FEA663F464F
+local
+node_modules
+other
+.idea
+.vscode
+
+data/**/*.sav.json
+data/**/*.sav.gvas

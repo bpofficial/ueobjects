@@ -1,0 +1,26 @@
+SaveParameterStructProperty�$PalIndividualCharacterSaveParameterLevelIntPropertyExpIntProperty�	NickNameStrProperty
+DoubleDewHPStructProperty6
+FixedPoint64ValueInt64Property �NoneFullStomachFloatProperty��_B	IsPlayer
+BoolPropertyMaxHPStructProperty6
+FixedPoint64ValueInt64Property �NoneSupportIntPropertydCraftSpeedIntPropertydCraftSpeedsArrayPropertyStructProperty
+CraftSpeedsStructProperty�PalWorkSuitabilityInfoWorkSuitability
+EnumProperty#EPalWorkSuitabilityEPalWorkSuitability::EmitFlameRankIntPropertyNoneWorkSuitability
+EnumProperty"EPalWorkSuitabilityEPalWorkSuitability::WateringRankIntPropertyNoneWorkSuitability
+EnumProperty!EPalWorkSuitabilityEPalWorkSuitability::SeedingRankIntPropertyNoneWorkSuitability
+EnumProperty-EPalWorkSuitability)EPalWorkSuitability::GenerateElectricityRankIntPropertyNoneWorkSuitability
+EnumProperty#EPalWorkSuitabilityEPalWorkSuitability::HandcraftRankIntPropertyNoneWorkSuitability
+EnumProperty$EPalWorkSuitability EPalWorkSuitability::CollectionRankIntPropertyNoneWorkSuitability
+EnumProperty"EPalWorkSuitabilityEPalWorkSuitability::DeforestRankIntPropertyNoneWorkSuitability
+EnumProperty EPalWorkSuitabilityEPalWorkSuitability::MiningRankIntPropertyNoneWorkSuitability
+EnumProperty'EPalWorkSuitability#EPalWorkSuitability::OilExtractionRankIntPropertyNoneWorkSuitability
+EnumProperty)EPalWorkSuitability%EPalWorkSuitability::ProductMedicineRankIntPropertyNoneWorkSuitability
+EnumPropertyEPalWorkSuitabilityEPalWorkSuitability::CoolRankIntPropertyNoneWorkSuitability
+EnumProperty#EPalWorkSuitabilityEPalWorkSuitability::TransportRankIntPropertyNoneWorkSuitability
+EnumProperty%EPalWorkSuitability!EPalWorkSuitability::MonsterFarmRankIntPropertyNoneMaxSPStructProperty6
+FixedPoint64ValueInt64Property��NoneSanityValueFloatPropertyGotStatusPointListArrayProperty�StructPropertyGotStatusPointListStructProperty�PalGotStatusPointStatusName
+NameProperty����g'YHPStatusPointIntPropertyNoneStatusName
+NameProperty����g'YSPStatusPointIntPropertyNoneStatusName
+NameProperty����;e�d�RStatusPointIntPropertyNoneStatusName
+NameProperty����@bc͑ϑStatusPointIntPropertyNoneStatusName
+NameProperty����Ucrs�sStatusPointIntPropertyNoneStatusName
+NameProperty����\Omi��^StatusPointIntPropertyNoneDecreaseFullStomachRatesStructProperty	FloatContainerNoneCraftSpeedRatesStructProperty	FloatContainerNoneLastJumpedLocationStructPropertyVector@!��-�����%d����8�rP���VoiceIDIntPropertyNoneNone\w�O�=<(����D�

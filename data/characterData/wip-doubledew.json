@@ -1,0 +1,336 @@
+{
+    "SaveParameter": {
+        "Struct": {
+            "PalIndividualCharacterSaveParameter": {
+                "Struct": {
+                    "Level": {
+                        "Int": 3
+                    },
+                    "Exp": {
+                        "Int": 128
+                    },
+                    "NickName": {
+                        "Str": "DoubleDew"
+                    },
+                    "HP": {
+                        "Struct": {
+                            "FixedPoint64": {
+                                "Struct": {
+                                    "Value": {
+                                        "Int64": 128000000
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "FullStomach": {
+                        "Float": 55.90035629272461
+                    },
+                    "IsPlayer": {
+                        "Bool": true
+                    },
+                    "MaxHP": {
+                        "Struct": {
+                            "FixedPoint64": {
+                                "Struct": {
+                                    "Value": {
+                                        "Int64": 128000000
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Support": {
+                        "Int": 100
+                    },
+                    "CraftSpeed": {
+                        "Int": 100
+                    },
+                    "CraftSpeeds": {
+                        "Array": {
+                            "CraftSpeeds": {
+                                "Struct": {
+                                    "PalWorkSuitabilityInfo": [
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::EmitFlame": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::Watering": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::Seeding": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::GenerateElectricity": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::Handcraft": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::Collection": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::Deforest": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::Mining": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::OilExtraction": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::ProductMedicine": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::Cool": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::Transport": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "WorkSuitability": {
+                                                "Enum": {
+                                                    "EPalWorkSuitability": {
+                                                        "EPalWorkSuitability::MonsterFarm": {
+                                                            "Rank": {
+                                                                "Int": 5
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "MaxSP": {
+                        "Struct": {
+                            "FixedPoint64": {
+                                "Struct": {
+                                    "Value": {
+                                        "Int64": 30720000
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "SanityValue": {
+                        "Float": 0
+                    },
+                    "GotStatusPointList": {
+                        "Array": {
+                            "GotStatusPointList": {
+                                "Struct": {
+                                    "PalGotStatusPoint": [
+                                        {
+                                            "StatusName": {
+                                                "Name": "HP\u0000\u0000\u0000"
+                                            },
+                                            "StatusPoint": {
+                                                "Int": 0
+                                            }
+                                        },
+                                        {
+                                            "StatusName": {
+                                                "Name": "SP\u0000\u0000\u0000"
+                                            },
+                                            "StatusPoint": {
+                                                "Int": 2
+                                            }
+                                        },
+                                        {
+                                            "StatusName": {
+                                                "Name": "\u001bR\u0000"
+                                            },
+                                            "StatusPoint": {
+                                                "Int": 0
+                                            }
+                                        },
+                                        {
+                                            "StatusName": {
+                                                "Name": "M\u0011O\u0011\u0000"
+                                            },
+                                            "StatusPoint": {
+                                                "Int": 0
+                                            }
+                                        },
+                                        {
+                                            "StatusName": {
+                                                "Name": "\u0007s\u0000"
+                                            },
+                                            "StatusPoint": {
+                                                "Int": 0
+                                            }
+                                        },
+                                        {
+                                            "StatusName": {
+                                                "Name": "\u001f\u0010&^\u0000"
+                                            },
+                                            "StatusPoint": {
+                                                "Int": 0
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "DecreaseFullStomachRates": {
+                        "Struct": {
+                            "FloatContainer": {
+                                "Struct": {}
+                            }
+                        }
+                    },
+                    "CraftSpeedRates": {
+                        "Struct": {
+                            "FloatContainer": {
+                                "Struct": {}
+                            }
+                        }
+                    },
+                    "LastJumpedLocation": {
+                        "Struct": {
+                            "Vector": {
+                                "x": {
+                                    "Value": -126914.86462700833
+                                },
+                                "y": {
+                                    "Value": -98256.46195027506
+                                },
+                                "z": {
+                                    "Value": -1952.8285620096638
+                                }
+                            }
+                        }
+                    },
+                    "VoiceID": {
+                        "Int": 2
+                    }
+                }
+            }
+        }
+    }
+}

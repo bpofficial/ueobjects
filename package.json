@@ -1,0 +1,20 @@
+{
+  "name": "pal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/working.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.202",
+    "@types/node": "^20.11.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "start": "ts-node ./src/main.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
